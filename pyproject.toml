@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "healthsync_ai.run:app"
